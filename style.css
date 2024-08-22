@@ -891,13 +891,13 @@ span{
     content: 'Happy Birthday!';
     font-family: 'Roboto', sans-serif;
     text-align: center;
-    padding: 10px;
-    width: 80px;
-    font-size: 10px;
+    padding: 5px;
+    width: 60px;
+    font-size: 8px;
     background: white;
-    border-radius: 15px;
-    margin-top: -30px;
-    margin-left: -40px;
+    border-radius: 10px;
+    margin-top: -20px;
+    margin-left: -30px;
     animation: cutemail 1s linear infinite;
     animation-delay: 6s;
     z-index: -1;
@@ -942,13 +942,13 @@ span{
     content: 'Congratulation!';
     font-family: 'Roboto', sans-serif;
     text-align: center;
-    padding: 10px;
-    width: 80px;
-    font-size: 10px;
+    padding: 5px;
+    width: 60px;
+    font-size: 8px;
     background: white;
-    border-radius: 15px;
-    margin-top: -30px;
-    margin-left: -100px;
+    border-radius: 10px;
+    margin-top: -20px;
+    margin-left: -80px;
     animation: cutemail2 3s linear infinite;
     animation-delay: 6s;
     z-index: -1;
@@ -970,12 +970,12 @@ span{
     }
 }
 .container .cute1 img{
-    width: 100px;
-    height: 100px;
+    width: 65px;
+    height: 65px;
 }
 .container .cute2 img{
-    width: 100px;
-    height: 100px;
+    width: 65px;
+    height: 65px;
 }
 .boxMail{
     position: fixed;
